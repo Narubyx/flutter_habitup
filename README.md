@@ -29,7 +29,7 @@ HabitUp es una aplicación móvil construida con Flutter que permite a los usuar
 ---
 
 ## 🧩 Estructura del proyecto
-
+```text
 lib/
 ├── models/ # Definición de modelos (Habit)
 ├── pages/ # Pantallas (Home, NewHabit)
@@ -46,17 +46,21 @@ lib/
 ```bash
 git clone https://github.com/tuusuario/habitup_flutter.git
 cd habitup_flutter
-Instala dependencias:
+```
 
-2. Clona el repo:
+2. Instala dependencias:
+```bash
 flutter pub get
+```
 
 3. Ejecuta en emulador o dispositivo:
+```bash
 flutter run
+```
 
 🧑 Autor
 Desarrollada por Roberto Soto, ingeniero en informática con 8 años de experiencia en software y enfoque actual en desarrollo de apps móviles multiplataforma.
-[LinkedIn: www.linkedin.com/in/roberto-soto-b28b74a5] | [GitHub]
+[LinkedIn](www.linkedin.com/in/roberto-soto-b28b74a5) | [GitHub](https://github.com/Narubyx)
 
 🪪 Licencia
 Este proyecto es open-source bajo la licencia MIT.
