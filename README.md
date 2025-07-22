@@ -62,7 +62,7 @@ flutter run
 
 👨‍💻 **Autor:** Roberto Soto  
 *Ingeniero en informática con 8 años de experiencia en desarrollo de software y enfoque actual en apps móviles multiplataforma.*
-[LinkedIn](www.linkedin.com/in/roberto-soto-b28b74a5) | [GitHub](https://github.com/Narubyx)
+[LinkedIn](https://www.linkedin.com/in/roberto-soto-b28b74a5) | [GitHub](https://github.com/Narubyx)
 
 
 🪪 **Licencia:**  
