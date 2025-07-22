@@ -36,7 +36,7 @@ lib/
 ├── providers/ # Provider con lógica de estado
 ├── services/ # Persistencia local
 ├── widgets/ # Componentes reutilizables (tiles, barras)
-
+```
 
 ---
 
