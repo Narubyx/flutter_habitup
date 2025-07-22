@@ -57,10 +57,11 @@ flutter pub get
 ```bash
 flutter run
 ```
-
-🧑 Autor
+```text
+🧑 Autor:
 Desarrollada por Roberto Soto, ingeniero en informática con 8 años de experiencia en software y enfoque actual en desarrollo de apps móviles multiplataforma.
+```
 [LinkedIn](www.linkedin.com/in/roberto-soto-b28b74a5) | [GitHub](https://github.com/Narubyx)
-
-🪪 Licencia
+```text
+🪪 Licencia:
 Este proyecto es open-source bajo la licencia MIT.
