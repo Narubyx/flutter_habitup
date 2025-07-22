@@ -60,12 +60,10 @@ flutter run
 
 ---
 
-👨‍💻 **Autor:**  
-Roberto Soto  
+👨‍💻 **Autor:** Roberto Soto  
 *Ingeniero en informática con 8 años de experiencia en desarrollo de software y enfoque actual en apps móviles multiplataforma.*
-
 [LinkedIn](www.linkedin.com/in/roberto-soto-b28b74a5) | [GitHub](https://github.com/Narubyx)
 
 
-🪪 **Licencia:**
+🪪 **Licencia:**  
 Este proyecto es open-source bajo la licencia MIT.
